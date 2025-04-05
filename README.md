@@ -56,9 +56,7 @@ Along with these 13 features, the MFCC technique will consider the first order d
 **Models Implementation**
 
 
-**SVC – Support Vector Classifier:**
-
-SVM is supervised machine learning algorithm used for classification, regression and outlier detection as well. SVM has classifications: SVC, NuSVC, LinearSVC. The       implementation of SVC is based on libsvm. It provides best fit hyperplane to categorize the data. The multiclass support is handled according to a one-vs-one scheme.  
+  
 
 	**CNN – Convolutional Neural Network: Class of deep neural network:**
 
